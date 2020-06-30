@@ -1,0 +1,19 @@
+{
+  "name": "filter-jerem-repo",
+  "version": "1.0.0",
+  "description": "a jerem filter",
+  "main": "filter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeremieMarniquet/filter-jerem-repo.git"
+  },
+  "author": "JeremieMarniquet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeremieMarniquet/filter-jerem-repo/issues"
+  },
+  "homepage": "https://github.com/JeremieMarniquet/filter-jerem-repo#readme"
+}
