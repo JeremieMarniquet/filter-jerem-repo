@@ -1,6 +1,6 @@
 {
   "name": "filter-jerem-repo",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "a jerem filter",
   "main": "filter.js",
   "scripts": {

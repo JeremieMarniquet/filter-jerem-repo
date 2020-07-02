@@ -1,5 +1,3 @@
-const theBestConsoleLog = (text) => {
+exports.theBestConsoleLog = (text) => {
   console.log(text)
 };
-
-export default theBestConsoleLog;
