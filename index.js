@@ -1,3 +1,3 @@
-exports.theBestConsoleLog = (text) => {
+exports.default = (text) => {
   console.log(text)
 };
