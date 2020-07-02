@@ -1,4 +1,4 @@
-export const theBestConsoleLog = (text) => {
+const theBestConsoleLog = (text) => {
   console.log(text)
 };
 
