@@ -1,6 +1,15 @@
-const betterConsoleLog = (text) => {
-  console.log(text);
-  console.log('yeahhhhhhhhhhh');
+const betterConsoleLog = () => {
+  console.log('-----------------------------------------------');
+  console.log('Listener called !');
+  console.log('-----------------------------------------------');
 };
 
-module.exports = betterConsoleLog;
+const listener = {
+  callback: betterConsoleLog,
+  eventName: 'WHISP_CREATED',
+  filter: {}
+};
+
+module.exports.listeners = [
+  listener,
+];
