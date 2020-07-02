@@ -1,3 +1,3 @@
-exports.default = (text) => {
+exports = (text) => {
   console.log(text)
 };
